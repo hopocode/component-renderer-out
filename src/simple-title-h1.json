@@ -1,0 +1,8 @@
+{
+    "el": "h1",
+    "attrs": {
+        "class": "title",
+        "id": "main-title"
+    },
+    "children": "Hello world"
+}

@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "url": {
+                "spec": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/html-escape.json",
+                "html": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/html-escape.html"
+            }
+        },
+        {
+            "url": {
+                "spec": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/simple-menu.json",
+                "html": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/simple-menu.html"
+            }
+        },
+        {
+            "url": {
+                "spec": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/simple-title-h1.json",
+                "html": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/simple-title-h1.html"
+            }
+        }
+    ]
+}

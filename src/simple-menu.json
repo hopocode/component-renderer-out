@@ -1,0 +1,59 @@
+{
+    "el": "nav",
+    "children": {
+        "el": "ul",
+        "attrs": {
+            "class": "top-nav"
+        },
+        "children": [
+            {
+                "el": "li",
+                "children": {
+                    "el": "a",
+                    "attrs": {
+                        "href": "/"
+                    },
+                    "children": "Home"
+                }
+            },
+            {
+                "el": "li",
+                "children": {
+                    "el": "a",
+                    "attrs": {
+                        "href": "/about-us"
+                    },
+                    "children": "<b>About us</b>",
+                    "render": "html"
+                }
+            },
+            {
+                "el": "li",
+                "children": {
+                    "el": "a",
+                    "attrs": {
+                        "href": "/support"
+                    },
+                    "children": {
+                        "el": "i",
+                        "children": "support"
+                    }
+                }
+            },
+            {
+                "el": "li",
+                "children": {
+                    "el": "a",
+                    "attrs": {
+                        "href": "/support",
+                        "class": "spt"
+                    },
+                    "children": {
+                        "el": "i",
+                        "children": "support"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,2 +1,3 @@
-# component-renderer
-React / PHP renderer by spec
+# component-renderer-out
+
+Specify html by json and render out. This repo is just source of tests...
