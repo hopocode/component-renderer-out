@@ -2,6 +2,12 @@
     "list": [
         {
             "url": {
+                "spec": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/hello-world.json",
+                "html": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/hello-world.html"
+            }
+        },
+        {
+            "url": {
                 "spec": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/html-escape.json",
                 "html": "https://raw.githubusercontent.com/hopocode/component-renderer-out/main/src/html-escape.html"
             }
