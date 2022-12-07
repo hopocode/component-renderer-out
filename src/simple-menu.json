@@ -51,7 +51,11 @@
                             "children": [
                                 {
                                     "el": "i",
-                                    "children": "support"
+                                    "children": [
+                                        {
+                                            "content": "support"
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -69,7 +73,11 @@
                             "children": [
                                 {
                                     "el": "i",
-                                    "children": "support"
+                                    "children": [
+                                        {
+                                            "content": "support"
+                                        }
+                                    ]
                                 }
                             ]
                         }
