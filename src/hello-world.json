@@ -1,4 +1,8 @@
 {
     "el": "h1",
-    "children": "Hello world"
+    "children": [
+        {
+            "content": "Hello world"
+        }
+    ]
 }

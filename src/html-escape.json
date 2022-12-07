@@ -4,5 +4,9 @@
         "class": "title",
         "id": "main-title"
     },
-    "children": "<b>Escape html Hello world</b>"
+    "children": [
+        {
+            "content": "<b>Escape html Hello world</b>"
+        }
+    ]
 }

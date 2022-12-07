@@ -4,5 +4,9 @@
         "class": "title",
         "id": "main-title"
     },
-    "children": "Hello world"
+    "children": [
+        {
+            "content": "Hello world"
+        }
+    ]
 }

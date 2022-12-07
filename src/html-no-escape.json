@@ -4,5 +4,10 @@
         "class": "title",
         "id": "main-title"
     },
-    "children": "<b>Escape html Hello world</b>"
+    "children": [
+        {
+            "content": "<b>Dengerous html Hello world</b>",
+            "escape": "noescape"
+        }
+    ]
 }
