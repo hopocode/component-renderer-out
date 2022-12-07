@@ -15,7 +15,11 @@
                             "attrs": {
                                 "href": "/"
                             },
-                            "children": "Home"
+                            "children": [
+                                {
+                                    "content": "Home"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -27,7 +31,11 @@
                             "attrs": {
                                 "href": "/about-us"
                             },
-                            "children": "<b>About us</b>",
+                            "children": [
+                                {
+                                    "content": "<b>About us</b>"
+                                }
+                            ],
                             "render": "html"
                         }
                     ]
@@ -40,10 +48,12 @@
                             "attrs": {
                                 "href": "/support"
                             },
-                            "children": {
-                                "el": "i",
-                                "children": "support"
-                            }
+                            "children": [
+                                {
+                                    "el": "i",
+                                    "children": "support"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -56,10 +66,12 @@
                                 "href": "/support",
                                 "class": "spt"
                             },
-                            "children": {
-                                "el": "i",
-                                "children": "support"
-                            }
+                            "children": [
+                                {
+                                    "el": "i",
+                                    "children": "support"
+                                }
+                            ]
                         }
                     ]
                 }
