@@ -46,27 +46,6 @@
                         {
                             "el": "a",
                             "attrs": {
-                                "href": "/support"
-                            },
-                            "children": [
-                                {
-                                    "el": "i",
-                                    "children": [
-                                        {
-                                            "content": "support"
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "el": "li",
-                    "children": [
-                        {
-                            "el": "a",
-                            "attrs": {
                                 "href": "/support",
                                 "class": "spt"
                             },
