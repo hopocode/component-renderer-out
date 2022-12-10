@@ -46,7 +46,7 @@
                         {
                             "el": "a",
                             "attrs": {
-                                "class": "spt",
+                                "class": "sptr",
                                 "href": "/support"
                             },
                             "children": [
